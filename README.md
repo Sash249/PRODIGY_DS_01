@@ -1,2 +1,4 @@
-# PRODIGY_DS_01
-Data Visualization (Bar Chart &amp; Histogram)
+## Task 01 – Data Visualization
+- Visualized population distribution across countries
+- Used histogram for latest available year
+- Dataset: World Bank Population Data
